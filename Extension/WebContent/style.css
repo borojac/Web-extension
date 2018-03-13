@@ -1,0 +1,11 @@
+@charset "ISO-8859-1";
+table,tr,td{
+	border: 1px solid black;
+	border-collapse: collapse;
+	color: black;
+	text-align: left;
+}
+
+.secondColumn{
+	text-align: center;
+}
